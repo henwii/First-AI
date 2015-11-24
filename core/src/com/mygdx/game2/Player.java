@@ -32,7 +32,7 @@ public class Player {
     public void update() {
         x += vx;
         y += vy;
-         v += 0.1;
+        v += 0.1;
 
         for(Boxes b: box){
 
