@@ -8,8 +8,8 @@ import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
  */
 public class Boxes {
     int x,y;
-    int width = 100;
-    int height = 100;
+    int width = 10;
+    int height = 10;
 
     Boxes(int x0, int y0){
         x = x0;
